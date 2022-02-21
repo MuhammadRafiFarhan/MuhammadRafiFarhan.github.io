@@ -1,5 +1,15 @@
 ## Profile Data Diri
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="silhouette-of-a-man-36181_960_720.jpg" alt="silhouette" width="500" height="333">
+
+</body>
+</html>
+
 Nama : Muhammad Rafi Farhan
 
 Kelas : 1B D4- Teknik informatika
