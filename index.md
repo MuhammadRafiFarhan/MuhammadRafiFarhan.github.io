@@ -32,7 +32,7 @@ Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrogra
 
 <html>
  <body>
-  <iframe src="https://www.youtube.com/watch?v=ZEcqHA7dbwM"
+  <iframe src="https://youtu.be/0fJj8xMQJ9s"
    width="560" height="315" frameborder="0" allowfullscreen></iframe>
  </body>
 </html>
