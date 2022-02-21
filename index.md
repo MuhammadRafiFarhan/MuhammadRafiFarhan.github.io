@@ -25,6 +25,12 @@ Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrogra
 
 ## Video Rekomendasi
 
+<html>
+ <body>
+  <object data="https://www.youtube.com/watch?v=ZEcqHA7dbwM"
+   width="560" height="315"></object>
+ </body>
+</html>
 
 ## Welcome to GitHub Pages
 
