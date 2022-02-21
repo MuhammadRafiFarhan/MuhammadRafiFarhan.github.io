@@ -42,6 +42,10 @@ src="https://youtu.be/0fJj8xMQJ9s">
 </body>
 </html>
 
+## Lokasi
+
+[um-iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.1342976153524!2d107.5202439152759!3d-6.874508169175389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e4f3b03b709d%3A0x57dbdf0a4ad8bde5!2sJl.%20Pd.%20Dustira%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1645426251781!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"]
+
 ## Rekomendasi Website Belajar
 
 <a href="https://www.petanikode.com/">Visit petanikode.com!</a>
