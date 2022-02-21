@@ -36,7 +36,7 @@ Perkenalkan, saya biasa dipanggil Rafi. Saya lahir di Bandung, 3 Desember 2002. 
 <body>
   
 <iframe height="480" width="500"  
-src="https://youtu.be/0fJj8xMQJ9s">
+src="https://youtu.be/embed/0fJj8xMQJ9s">
 </iframe>
   
 </body>
