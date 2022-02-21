@@ -1,6 +1,5 @@
 ## Profile Data Diri
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -27,8 +26,8 @@ Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrogra
 
 <html>
  <body>
-  <object data="https://www.youtube.com/watch?v=ZEcqHA7dbwM"
-   width="560" height="315"></object>
+  <iframe src="https://www.youtube.com/watch?v=ZEcqHA7dbwM"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
  </body>
 </html>
 
