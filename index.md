@@ -1,3 +1,20 @@
+## Profile Data Diri
+
+Nama : Muhammad Rafi Farhan
+
+Kelas : 1B D4- Teknik informatika
+
+Moto Hidup : Berdiam diri saja tidak akan menyelesaikan apa-apa.
+
+Hobi : Baca Komik dan Novel
+
+Kemampuan Teknis : Mengerti mengenai hardware komputer serta sedang mempelajari bahasa C, Java, dan Python.
+
+Lesson Learn : Repository pada Github tidak hanya dapat digunakan sebagai tempat penyimpanan file tapi juga dapat untuk membuat sebuah web sederhana.
+
+Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrograman dan bisa cepat mendapat pekerjaan yang layak.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MuhammadRafiFarhan/MuhammadRafiFarhan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
