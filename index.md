@@ -4,8 +4,7 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<img src="silhouette-of-a-man-36181_960_720.jpg" alt="silhouette" width="500" height="333">
+<img src="https://cdn.pixabay.com/photo/2012/04/18/00/07/silhouette-of-a-man-36181_960_720.png" alt="silhouette" width="300" height="333">
 
 </body>
 </html>
@@ -23,6 +22,8 @@ Kemampuan Teknis : Mengerti mengenai hardware komputer serta sedang mempelajari 
 Lesson Learn : Repository pada Github tidak hanya dapat digunakan sebagai tempat penyimpanan file tapi juga dapat untuk membuat sebuah web sederhana.
 
 Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrograman dan bisa cepat mendapat pekerjaan yang layak.
+
+## Video Rekomendasi
 
 
 ## Welcome to GitHub Pages
