@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to This Page
 
-You can use the [editor on GitHub](https://github.com/MuhammadRafiFarhan/MuhammadRafiFarhan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Selamat datang di page profile pengenalan diri. Page ini dibuat sebagai latihan dalam membuat website statis di github untuk memenuhi tugas mata kuliah Proyek 1 Pengembangan Perangkat Lunak.
 
 ## Profile Data Diri
 
 <html>
 <body>
 
-<img src="https://cdn.pixabay.com/photo/2012/04/18/00/07/silhouette-of-a-man-36181_960_720.png" alt="silhouette" width="300" height="333">
+<img src="https://cdn.pixabay.com/photo/2012/04/18/00/07/silhouette-of-a-man-36181_960_720.png" alt="silhouette" width="200" height="233">
 
 </body>
 </html>
-
+  
 Nama : Muhammad Rafi Farhan
 
 Kelas : 1B D4- Teknik informatika
@@ -28,13 +26,20 @@ Lesson Learn : Repository pada Github tidak hanya dapat digunakan sebagai tempat
 
 Harapan setelah lulus JTK adalah semoga saya bisa mahir dalam melakukan pemrograman dan bisa cepat mendapat pekerjaan yang layak.
 
-## Rekomendasi Video
+## Pengenalan Singkat
+
+Perkenalkan, saya biasa dipanggil Rafi. Saya lahir di Bandung, 3 Desember 2002. Sekarang saya tinggal bersama kedua orang tua saya. Saya memiliki hobi yaitu menggambar dan membaca novel atau komik. Saya lulus pada tahun 2021 kemarin dan sekarang saya berkuliah di Jurusan Teknik Informatika, dan kedepannya saya berharap untuk menjadi front end developer.
+ 
+## Video Perkenalan
 
 <html>
- <body>
-  <iframe src="https://youtu.be/0fJj8xMQJ9s"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
- </body>
+<body>
+  
+<iframe height="480" width="500"  
+src="https://youtu.be/0fJj8xMQJ9s">
+</iframe>
+  
+</body>
 </html>
 
 ## Rekomendasi Website Belajar
