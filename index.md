@@ -59,3 +59,45 @@ frameborder="0" allowfullscreen></iframe>
 
 Untuk yang ingin mempelajari mengenai berbagai macam hal tentang pemrograman dapat kunjungi website di atas.
 
+## DATA SCRAPING I
+
+<html>
+<head>
+    <title>Membaca File Json</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+
+        $.get('headline.json',function(obj) {
+
+            var str="<table border=1>";
+
+            str+="<tr><td>No</td><td>Judul Headline</td><td> Topik</td><td> Waktu Publish</td></tr>";
+
+            $.each(obj,function(n,data) {
+
+                str+="<tr><td>"+(n+1)+"</td>";
+                str+="<td>"+data.judul+"<td>"+data.topik+"<td>"+data.waktu_publish+"</td></tr>";
+                
+
+            });
+
+            str+="</tabel>";
+
+            $('#headline_json').html(str);
+        
+        });
+
+    });
+    
+</script>
+
+</head>
+<body>
+    <h1> Headline Republika Online </h1>
+
+    <div id="headline_json"></div>
+</body>
+</html>
