@@ -74,12 +74,12 @@ Untuk yang ingin mempelajari mengenai berbagai macam hal tentang pemrograman dap
 
             var str="<table border=1>";
 
-            str+="<tr><td>No</td><td>Judul Headline</td><td> Topik</td><td> Waktu Publish</td></tr>";
+            str+="<tr><td>No</td><td>Judul Headline</td><td> Topik</td><td> Waktu Publish</td><td> Waktu Scraping</td></tr>";
 
             $.each(obj,function(n,data) {
 
                 str+="<tr><td>"+(n+1)+"</td>";
-                str+="<td>"+data.judul+"<td>"+data.topik+"<td>"+data.waktu_publish+"</td></tr>";
+                str+="<td>"+data.judul+"<td>"+data.topik+"<td>"+data.waktu_publish+"<td>"+data.waktu_scraping+"</td></tr>";
                 
 
             });
