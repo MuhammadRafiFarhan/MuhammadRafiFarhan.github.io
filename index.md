@@ -104,7 +104,6 @@ Untuk yang ingin mempelajari mengenai berbagai macam hal tentang pemrograman dap
 
 ## DATA SCRAPING II
 
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <title> Selenium Web Scraping</title>
@@ -126,8 +125,9 @@ Untuk yang ingin mempelajari mengenai berbagai macam hal tentang pemrograman dap
                             str += "<td class='tables'>" + data.Platform + "</td>";
                             str += "<td class='tables'>" + data.Release_date + "</td>";
                             str += "<td class='tables'>" + data.Rating + "</td>";
-                            str += "<td class='tables'>" + data.Waktu_scrapping + "</td>";
-                            str += '<td><img src="' + data.Image + '"></td></tr>';
+                            str += '<td><img src="' + data.Image + '"></td>';
+                            str += "<td class='tables'>" + data.Waktu_scrapping + "</td></tr>";
+                            
                         });
                         str += "</table>";
                         $("#Top3DSGames_json").html(str);
